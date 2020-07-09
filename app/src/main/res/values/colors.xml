@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#4481EB</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimary">#4481EB</color>
+    <color name="colorBase">#3395ff</color>
+
+
+    <color name="cor1">#222222</color>
+    <color name="cor2">#66000000</color>
+    <color name="cor3">#33000000</color>
+    <color name="cor4">#ebeced</color>
+    <color name="cor5">#f5f5f5</color>
+    <color name="cor6">#ffffff</color>
+    <color name="cor7">#66ffffff</color>
+    <color name="cor8">#3395ff</color>
+    <color name="cor9">#f3533b</color>
+    <color name="cor10">#f5f6fb</color>
+    <color name="cor11">#e8e9eb</color>
+    <color name="cor12">#999999</color>
+    <color name="cor13">#98b2d3</color>
+    <color name="cor14">#3173ba</color>
+    <color name="cor15">#edf5ff</color>
+    <color name="cor16">#33ffffff</color>
+    <color name="cor17">#fff3e0</color>
+    <color name="cor18">#343434</color>
+    <color name="cor19">#5fe3ff</color>
+    <color name="cor20">#997fade6</color>
+    <color name="cor22">#8c8c8c</color>
+    <color name="cor23">#599BF8</color>
+    <color name="cor24">#FA8C7F</color>
+    <color name="cor25">#999999</color>
+    <color name="cor26">#333333</color>
+    <color name="cor27">#7c7c7c</color>
+    <color name="cor28">#599BF8</color>
+    <color name="cor29">#f3f4f5</color>
+    <color name="cor30">#222222</color>
+    <color name="cor31">#999999</color>
+    <color name="cor32">#7a7aa7</color>
+    <color name="cor33">#00000000</color>
+    <color name="cor34">#7f000000</color>
+    <color name="cor35">#e2e3e5</color>
+    <color name="cor36">#E8E9EB</color>
+    <color name="cor37">#FF5068</color>
+    <color name="cor38">#66ffffff</color>
+    <color name="cor39">#FCF0D8</color>
+    <color name="cor40">#FF837A</color>
+    <color name="cor41">#7F7F7F</color>
+    <color name="cor42">#599bf8</color>
+    <color name="cor43">#80000000</color>
+    <color name="cor44">#4A90E2</color>
+    <color name="cor45">#f3f4f8</color>
+    <color name="cor46">#f2f4f5</color>
+    <color name="cor47">#f8f8f8</color>
+    <color name="cor48">#03b2fe</color>
+    <color name="cor49">#2081dc</color>
+    <color name="cor50">#1694ff</color>
+    <color name="cor51">#1bbc17</color>
+    <color name="cor52">#f95e5e</color>
+    <color name="cor53">#f2f4f5</color>
+    <color name="cor54">#596393</color>
+    <color name="cor55">#6e84a4</color>
+    <color name="cor56">#9DC1F3</color>
+    <color name="cor57">#E8E9EB</color>
+    <color name="cor58">#EEF1FE</color>
+    <color name="cor59">#DADDEC</color>
+    <color name="cor60">#3f000000</color>
+    <color name="cor61">#3696ec</color>
+    <color name="cor62">#1e5fdd</color>
+    <color name="cor63">#B3ffffff</color>
+    <color name="cor64">#D8D8D8</color>
+
+    <color name="material_orange">#FF9800</color>
+
+    <drawable name="cor6">#ffffff</drawable>
+    <drawable name="cor11">#e8e9eb</drawable>
+    <drawable name="cor17">#fff3e0</drawable>
+
+    <color name="cor707070">#707070</color>
+    <color name="cor1296db">#1296db</color>
+    <color name="corea9518">#ea9518</color>
+
+    <color name="text_black">#212121</color>
+
+    <!-- 应用详情 -->
+    <color name="app_detail_background">#ffffff</color>
+    <color name="app_detail_top_appname">#333333</color>
+    <color name="app_detail_top_content">#666666</color>
+    <color name="app_detail_nav_textcolor_normal">#666666</color>
+    <color name="app_detail_comment_progress">#808080</color>
+    <color name="app_detail_comment_progress_bg">#e6e6e6</color>
+    <color name="app_detail_gray">#666666</color>
+
+    <color name="app_detail_black">#333333</color>
+    <color name="app_detail_lable">#999999</color>
+    <color name="app_detail_content">#222222</color>
+    <color name="app_detail_btn_install">#FFFFFF</color>
+    <color name="app_detail_placeholder_bg">#FFFFFFFF</color>
+    <color name="jingwu_driver_background">#F5F6FB</color>
+
+
+    <!--收入查询-->
+    <color name="white">#ffffffff</color>
+    <color name="srcx_tab">#adcdef</color>
+    <color name="srcx_tab_bg">#ceeaff</color>
+    <color name="spilt_line_color">#efefef</color>
+    <color name="black_txt">#515151</color>
+    <color name="black">#000000</color>
+    <!--一户式查询-->
+    <color name="ssgl01">#777777</color>
+    <color name="ssgl02">#333333</color>
+
+
+    <!-- 视频会议申请 -->
+    <color name="date_selected_color">#007dff</color>
+    <color name="date_selected_bg_color">#70b5ff</color>
+    <color name="date_item_color">#007dff</color>
+    <color name="hysq_title">#1d1d1d</color>
+    <color name="hysq_spjd_line">#00cc00</color>
+    <color name="hysq_spilt_line">#f5f5f5</color>
+    <color name="hysq_content">#9c9c9c</color>
+    <color name="hysq_bg">#a3d8ff</color>
+    <color name="hysq_menu_bg">#6cbaf5</color>
+    <color name="sp_title">#ff8c47</color>
+    <color name="popup_menu_normal">#0066cc</color>
+    <color name="popup_menu_press">#043b71</color>
+    <color name="at_color">#0083cd</color>
+    <color name="line">#ffd3dde6</color>
+    <!-- topic -->
+    <color name="background_color">#e7f0f9</color>
+    <color name="white_color">#FFF</color>
+    <color name="gray_color">#EEEEEE</color>
+    <color name="blue_color">#3399ff</color>
+    <color name="orange_color">#FC6F1D</color>
+    <drawable name="white_drawable">#FFF</drawable>
+    <drawable name="white_press_drawable">#F2F2F2</drawable>
+    <color name="blue_light_color">#419DEA</color>
+    <color name="text_gray_color">#919191</color>
+    <color name="red_color">#E64C64</color>
+    <drawable name="gray_rect">#F1F1F1</drawable>
+    <color name="gray_light_color">#F9F9F9</color>
+    <drawable name="gray_rect_press">#D9D9D9</drawable>
+    <color name="text_black_color">#5B5B5B</color>
+    <color name="divider_color">#DDDDDD</color>
+    <color name="orange_press_color">#c25229</color>
+    <color name="red_press_color">#873939</color>
+    <color name="white_press_color">#D9D9D9</color>
+    <color name="gray_transparent_color">#4dEEEEEE</color>
+    <color name="emojicon_tab_selected">#E5E5E5</color>
+    <color name="push_bg">#c0000000</color>
+
+    <!--ocr-->
+
+
+    <color name="operBarBackgroud">#80000000</color>
+
+    <color name="operBarBackgroud1">#20000000</color>
+    <color name="bgcolor">#E8EbEd</color>
+
+    <color name="button_pressed">#cccccc</color>
+    <color name="text_color">#999999</color>
+    <color name="orange_normal">#FFFF7F00</color>
+    <color name="orange_yellow">#f39912</color>
+
+    <color name="orange_transparency">#20FF7F00</color>
+
+    <color name="result_color">#b0000000</color>
+    <color name="border_color">#ffffffff</color>
+
+    <!-- 警员 -->
+    <color name="nav_textcolor_checked">#1886f4</color>
+    <color name="nav_textcolor_normal">#666666</color>
+
+
+    <!-- dialog -->
+    <color name="dialog_btn_normal">#ffffff</color>
+    <color name="dialog_btn_press">#cccccc</color>
+
+    <color name="talk_list_item_click_color">#e3e3e3</color>
+
+    <!--自定义Dialog-->
+    <!--标题颜色-->
+
+    <!--通用颜色-->
+    <!--深白87-->
+    <color name="deep_white">#DFFFFFFF</color>
+    <!--中白54%-->
+    <color name="medium_white">#8AFFFFFF</color>
+    <!--深黑87%-->
+    <color name="deep_black">#DF000000</color>
+    <!--中黑54%-->
+    <color name="medium_black">#8A000000</color>
+    <!--浅黑24%-->
+    <color name="light_black">#3D000000</color>
+    <!--白色背景-->
+    <color name="white_bg">#f4f4f4</color>
+    <!--透明-->
+    <color name="transparent">#00000000</color>
+    <!--分割线颜色-->
+    <color name="divider">#e5e5e5</color>
+    <!--水波效果颜色-->
+    <color name="rippelColor">#ffbee4f6</color>
+
+    <!--拨号界面 DialActivity-->
+    <!--拨号背景-->
+    <color name="dialpad_bg">#fcfcfc</color>
+
+
+    <!--通话界面 IncallActivity-->
+    <!--加密通话信息条的金色-->
+    <color name="alert_banner">#FFe5ba29</color>
+
+    <!--分割线颜色-->
+    <color name="diver_color">#FFE5E5E5</color>
+    <color name="item_color">#FFFFFFFF</color>
+    <color name="dial_bg_color">#FFF4F4F4</color>
+    <color name="diver_color1">#CCCCCC</color>
+
+
+    <color name="contact_listview_slide">#bfbfbf</color>
+
+
+    <color name="tool_bar_title_color">#FFFFFFFF</color>
+    <color name="popup_menu_text_color">#DF000000</color>
+
+    <color name="green_00CC65">#00CC65</color>
+    <color name="yellow_FF9000">#FF9000</color>
+    <color name="gray_FFFED3">#FFFED3</color>
+
+    <color name="color_gray_eaeaea">#eaeaea</color>
+    <color name="color_black_333333">#333333</color>
+    <color name="color_grey_999999">#999999</color>
+    <color name="color_black_d9d9d9">#d9d9d9</color>
+    <color name="GreyWhite_has_alpha">#66FAFAFA</color>
+    <color name="action_bar_tittle_color_555555">#555555</color>
+
+
+    <color name="indicator_fill">#009999</color>
+    <color name="indicator_normal">#b2e0e0</color>
+    <color name="base_333333">#333333</color>
+    <color name="base_F2F2F2">#f2f2f2</color>
+    <color name="base_DCDCDC">#DCDCDC</color>
+    <color name="base_697A9F">#697A9F</color>
+    <color name="base_B5B5B5">#B5B5B5</color>
+
+
+    <color name="praise_item_default">#333333</color>
+    <color name="praise_item_selector_default">#cccccc</color>
+    <color name="praise_item">#8290AF</color>
+    <color name="default_clickable_color">#cccccc</color>
+    <color name="color_8290AF">#8290AF</color>
+    <color name="color_ACACAC">#ACACAC</color>
+    <color name="color_dialog_background">#aa000000</color>
+
+    <!--换肤颜色-->
+    <!--<color name="toolbar_color_start">#04BEFE</color>-->
+    <!--<color name="toolbar_color_end">#4481EB</color>-->
+    <color name="work_circle_focus_color">#419DEA</color>
+    <color name="main_bottom_bar_color">#ffffff</color>
+    <!--换肤颜色-->
+
+</resources>

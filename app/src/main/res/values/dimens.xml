@@ -1,0 +1,257 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="size0">40dp</dimen>
+    <dimen name="size1">20dp</dimen>
+    <dimen name="size2">16dp</dimen>
+    <dimen name="size3">14dp</dimen>
+    <dimen name="size4">12dp</dimen>
+    <dimen name="size5">10dp</dimen>
+    <dimen name="size6">8dp</dimen>
+    <dimen name="size7">4dp</dimen>
+    <dimen name="size8">5dp</dimen>
+    <dimen name="dividerHeight">0.5dp</dimen>
+
+    <dimen name="padding_2">2dp</dimen>
+    <dimen name="padding_4">4dp</dimen>
+    <dimen name="padding_5">5dp</dimen>
+    <dimen name="padding_6">6dp</dimen>
+    <dimen name="padding_7">7dp</dimen>
+    <dimen name="padding_8">8dp</dimen>
+    <dimen name="padding_14">14dp</dimen>
+    <dimen name="padding_16">16dp</dimen>
+    <dimen name="padding_12">12dp</dimen>
+    <dimen name="padding_20">20dp</dimen>
+    <dimen name="padding_24">24dp</dimen>
+    <dimen name="padding_28">28dp</dimen>
+    <dimen name="padding_30">30dp</dimen>
+    <dimen name="padding_32">32dp</dimen>
+    <dimen name="padding_36">36dp</dimen>
+    <dimen name="padding_38">38dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="padding_18">18dp</dimen>
+    <dimen name="padding_40">40dp</dimen>
+    <dimen name="padding_48">48dp</dimen>
+
+    <dimen name="padding_56">56dp</dimen>
+    <dimen name="padding_60">60dp</dimen>
+    <dimen name="padding_64">64dp</dimen>
+    <dimen name="padding_68">68dp</dimen>
+    <dimen name="padding_72">72dp</dimen>
+    <dimen name="padding_80">80dp</dimen>
+    <dimen name="padding_90">90dp</dimen>
+    <dimen name="padding_100">100dp</dimen>
+    <dimen name="padding_120">120dp</dimen>
+    <dimen name="padding_136">136dp</dimen>
+    <dimen name="padding_150">150dp</dimen>
+    <dimen name="padding_168">168dp</dimen>
+    <dimen name="padding_180">180dp</dimen>
+    <dimen name="padding_200">200dp</dimen>
+    <dimen name="padding_192">192dp</dimen>
+    <dimen name="padding_238">238dp</dimen>
+    <dimen name="padding_256">256dp</dimen>
+    <dimen name="padding_270">270dp</dimen>
+    <dimen name="video_thumb_width">230dp</dimen>
+    <!-- 主界面-->
+    <dimen name="main_tab_height">64dp</dimen>
+
+    <!--警员-主界面 -->
+    <dimen name="jingyuan_myfriend_space">8dp</dimen>
+    <dimen name="jingyuan_myfriend_navheight">56dp</dimen>
+    <!-- space 8dp + navheight 56dp 主要为了控制letterListview显示位置 -->
+    <dimen name="jingyuan_myfriend_option">61dp</dimen>
+
+    <!--警员 -个人中心-->
+    <dimen name="person_margin">16dp</dimen>
+    <dimen name="person_margin_top">48dp</dimen>
+    <dimen name="person_margin_bottom">12dp</dimen>
+    <dimen name="person_margin_left">12dp</dimen>
+    <dimen name="person_margin_right">24dp</dimen>
+    <dimen name="person_btn_exit_height">48dp</dimen>
+    <dimen name="person_btn_exit_margin_top">24dp</dimen>
+    <dimen name="person_title_btn_size">56dp</dimen>
+
+    <!--警员-常用联系人-->
+    <dimen name="contact_nodata_margin_top">160dp</dimen>
+    <dimen name="contact_nodate_drawable_padding">8dp</dimen>
+
+    <!--警员-群组界面-->
+    <dimen name="group_nodata_margin_top">160dp</dimen>
+    <dimen name="group_nodate_drawable_padding">8dp</dimen>
+
+    <!--  警务 应用-->
+    <dimen name="item_min_height">48dp</dimen>
+    <dimen name="item_min_width">48dp</dimen>
+    <dimen name="item_margin_right">36dp</dimen>
+    <dimen name="item_margin_start">30dp</dimen>
+    <dimen name="item_margin_bottom">12dp</dimen>
+    <dimen name="jingwu_nodata_margin_top">120dp</dimen>
+    <dimen name="jingwu_margin_left">48dp</dimen>
+    <dimen name="jingwu_margin_right">48dp</dimen>
+    <dimen name="jingwu_margin_bottom">8dp</dimen>
+    <dimen name="jingwu_margin_bottom2">48dp</dimen>
+    <dimen name="jingwu_nodata_addbtn_height">48dp</dimen>
+
+
+    <!-- splash界面 -->
+    <dimen name="logo_margin_top">140dp</dimen>
+    <dimen name="logo_margin_bottom">104dp</dimen>
+    <dimen name="progressbar_margin">12dp</dimen>
+    <dimen name="progressbar_wh">32dp</dimen>
+
+    <!--progress_dialog-->
+    <dimen name="progress_dialog_width">296dp</dimen>
+    <dimen name="progress_dialog_height">56dp</dimen>
+    <!--alert_dialog-->
+    <dimen name="alert_dialog_width">344dp</dimen>
+    <dimen name="alert_dialog_height">240dp</dimen>
+    <dimen name="alert_dialog_msg_height">50dp</dimen>
+    <dimen name="alert_dialog_btn_height">36dp</dimen>
+
+    <!--个人中心  首页-->
+    <dimen name="person_height_name">64dp</dimen>
+    <dimen name="person_index_margin_left">16dp</dimen>
+    <dimen name="person_index_margin_rigth">16dp</dimen>
+    <dimen name="person_height">48dp</dimen>
+    <dimen name="person_exit_btn_margin_top">24dp</dimen>
+    <dimen name="person_exit_btn_margin_left">12dp</dimen>
+    <dimen name="person_index_head_height">40dp</dimen>
+    <dimen name="person_index_head_width">40dp</dimen>
+    <dimen name="person_icon_height">24dp</dimen>
+    <dimen name="person_icon_width">24dp</dimen>
+
+    <!--关于页面-->
+    <dimen name="about_margin_top">48dp</dimen>
+
+    <!--修改密码页面-->
+    <dimen name="updpwd_height">48dp</dimen>
+    <dimen name="updpwd_margin_top">24dp</dimen>
+    <dimen name="updpwd_margin">16dp</dimen>
+    <dimen name="updpwd_savebtn_margin">12dp</dimen>
+
+    <!--栏目查看-->
+    <dimen name="column_info_top_height">180dp</dimen>
+    <dimen name="column_info_button_width">336dp</dimen>
+    <dimen name="column_info_button_height">48dp</dimen>
+    <dimen name="column_info_head_size">72dp</dimen>
+    <!--栏目定阅-->
+    <dimen name="column_list_group_height">40dp</dimen>
+    <dimen name="column_list_pic_size">40dp</dimen>
+    <dimen name="column_list_sub_btn_width">64dp</dimen>
+    <dimen name="column_list_sub_btn_height">32dp</dimen>
+
+    <!--警信浏览器-->
+    <dimen name="webexplorer_fontsetting_height">56dp</dimen>
+    <dimen name="webexplorer_fontsetting_item">40dp</dimen>
+    <dimen name="webexplorer_fontsetting_item_distance">12dp</dimen>
+    <dimen name="chat_actionpanel_h">289dp</dimen>
+    <dimen name="chat_panel_edittext_h">40dp</dimen>
+    <dimen name="chat_panel_btn_w">44dp</dimen>
+    <dimen name="chat_panel_img_size">56dp</dimen>
+    <dimen name="chat_panel_img_margintop">30dp</dimen>
+    <dimen name="chat_panel_img_hspace">29dp</dimen>
+    <dimen name="faceitem_margin">10dp</dimen>
+    <!--<dimen name="faceitem_size">32dp</dimen>-->
+    <!--警信-->
+    <dimen name="chat_gif_max_width">150dp</dimen>
+    <dimen name="chat_gif_current_width">120dp</dimen>
+    <dimen name="chat_msg_max_width">220dp</dimen>
+    <dimen name="chat_backmsg_max_width">192dp</dimen>
+    <dimen name="chat_img_max_width">160dp</dimen>
+    <dimen name="chat_img_min_width">100dp</dimen>
+    <dimen name="choose_pic_column_w_h">118dp</dimen>
+    <dimen name="tb_chat_to_top_w">38dp</dimen>
+    <dimen name="tb_chat_to_top_h">22dp</dimen>
+    <dimen name="group_margin_bottom">30dp</dimen>
+    <dimen name="no_chat_btn_w">264dp</dimen>
+    <dimen name="shan_text_send_left_pad">20dp</dimen>
+    <dimen name="shan_text_send_right_pad">18dp</dimen>
+    <dimen name="text_send_left_pad">12dp</dimen>
+    <dimen name="text_send_righdt_pad">16dp</dimen>
+    <dimen name="shan_image_left_pad">14dp</dimen>
+    <dimen name="shan_image_top_pad">4dp</dimen>
+    <dimen name="shan_image_right_pad">8dp</dimen>
+    <dimen name="shan_image_bottom_pad">4dp</dimen>
+    <dimen name="image_left_pad">8dp</dimen>
+    <dimen name="image_top_pad">4dp</dimen>
+    <dimen name="image_right_pad">4dp</dimen>
+    <dimen name="image_bottom_pad">4dp</dimen>
+    <dimen name="shan_destoryed_text_send_left_pad">16dp</dimen>
+    <dimen name="shan_destoryed_text_send_right_pad">28dp</dimen>
+    <dimen name="text_receive_left_pad">16dp</dimen>
+    <dimen name="text_receive_right_pad">12dp</dimen>
+    <dimen name="shan_image_receive_left_pad">16dp</dimen>
+    <dimen name="shan_image_receive_right_pad">28dp</dimen>
+    <dimen name="shan_voice_send_left_pad">20dp</dimen>
+    <dimen name="shan_voice_send_right_pad">18dp</dimen>
+    <dimen name="voice_send_left_pad">12dp</dimen>
+    <dimen name="voice_send_righdt_pad">16dp</dimen>
+    <dimen name="shan_destoryed_voice_send_left_pad">16dp</dimen>
+    <dimen name="shan_destoryed_voice_send_right_pad">28dp</dimen>
+    <dimen name="voice_receive_left_pad">16dp</dimen>
+    <dimen name="voice_receive_right_pad">12dp</dimen>
+    <dimen name="image_send_left_pad">4dp</dimen>
+    <dimen name="image_send_top_pad">4dp</dimen>
+    <dimen name="image_send_right_pad">8dp</dimen>
+    <dimen name="image_send_bottom_pad">4dp</dimen>
+    <dimen name="shan_text_send_top_pad">12dp</dimen>
+    <dimen name="shan_text_send_bottom_pad">12dp</dimen>
+    <dimen name="text_send_top_pad">12dp</dimen>
+    <dimen name="text_send_bottom_pad">12dp</dimen>
+    <dimen name="shan_destoryed_text_send_top_pad">12dp</dimen>
+    <dimen name="shan_destoryed_text_send_bottom_pad">12dp</dimen>
+    <dimen name="text_receive_top_pad">12dp</dimen>
+    <dimen name="text_receive_bottom_pad">12dp</dimen>
+    <dimen name="shan_destoryed_voice_receive_top_pad">12dp</dimen>
+    <dimen name="shan_destoryed_voice_receive_bottom_pad">12dp</dimen>
+    <dimen name="shan_image_receive_top_pad">8dp</dimen>
+    <dimen name="shan_image_receive_bottom_pad">8dp</dimen>
+    <dimen name="scan_text_size">15sp</dimen>
+
+    <!-- 视频会议申请-->
+    <dimen name="title_bar_size">20dp</dimen>
+    <dimen name="title_size">16dp</dimen>
+    <dimen name="content_size">14dp</dimen>
+    <dimen name="date_item_size">22dp</dimen>
+    <dimen name="hysq_edit_height">45dp</dimen>
+    <dimen name="btn_width">80dp</dimen>
+    <dimen name="btn_width_60">60dp</dimen>
+    <dimen name="btn_height">40dp</dimen>
+    <dimen name="btn_height_36">36dp</dimen>
+    <dimen name="common_title_height">44dp</dimen>
+    <!-- topic -->
+    <dimen name="radius_corner">4dp</dimen>
+    <dimen name="item_space">9dp</dimen>
+    <dimen name="photo_listitem_tiny_size">44dp</dimen>
+    <dimen name="topic_gridphoto_leftmargin">8dp</dimen>
+    <dimen name="topic_gridphoto_margin">65dp</dimen>
+    <dimen name="max_photo_width">210.0dip</dimen>
+    <dimen name="min_photo_width">160.0dip</dimen>
+    <dimen name="circle_corner">20dp</dimen>
+    <dimen name="emotion_height">150dp</dimen>
+    <dimen name="edittext_emojicon_size">18dp</dimen>
+    <dimen name="padding_98">98dp</dimen>
+    <dimen name="padding_170">170dp</dimen>
+    <!--ocr-->
+    <dimen name="scan_title_bar_height">56dp</dimen>
+    <dimen name="padding_50">50dp</dimen>
+    <dimen name="padding_53">53dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="activity_horizontal_margin2">14dp</dimen>
+    <dimen name="split_one_pixels">1px</dimen>
+    <dimen name="split_one_dip">1dp</dimen>
+    <dimen name="max_header_height">292dp</dimen>
+    <dimen name="header_offset_dis">256dp</dimen>
+    <dimen name="indicator_right_padding">3dp</dimen>
+    <dimen name="indicator_corner_radius">12dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="header_footer_left_right_padding">24dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">12dp</dimen>
+    <dimen name="underline_height">2dp</dimen>
+    <dimen name="split_dip">0.4dp</dimen>
+    <dimen name="padding_140">140dp</dimen>
+
+</resources>
